@@ -153,3 +153,35 @@ int dport()
 
 
 
+int http_data()
+{
+	printf("Http.data = %c %c\n", packet[54], packet[55]);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
