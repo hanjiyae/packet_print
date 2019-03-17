@@ -6,6 +6,8 @@ int sip();
 int dip();
 int sport();
 int dport();
+int http_data();
+
 
 
 
